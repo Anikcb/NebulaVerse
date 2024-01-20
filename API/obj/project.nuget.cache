@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l7Ew8+CHjbtgkWwcQkLVufIWFt5J/IQRcGjsGDtJ7BwtsvLjS5ZNu4CdSmKe/NVXiTyvlC16eUKwCueQGuoKGA==",
+  "dgSpecHash": "TUsou9hr4Tb3uE8JVvlxnGhMD6YPkYdJEmeSWAC1UjInma1UjbgLNdMr6cut3QX8zaDlydjQCZLlTf7qk93I7g==",
   "success": true,
-  "projectFilePath": "F:\\Office\\NebulaVerse\\API\\API.csproj",
+  "projectFilePath": "F:\\NebulaVerse\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anik\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Anik\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.9\\microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
