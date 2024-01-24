@@ -124,3 +124,11 @@ F:\NebulaVerse\API\obj\Debug\net7.0\refint\API.dll
 F:\NebulaVerse\API\obj\Debug\net7.0\API.pdb
 F:\NebulaVerse\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 F:\NebulaVerse\API\obj\Debug\net7.0\ref\API.dll
+F:\NebulaVerse\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\NebulaVerse\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\NebulaVerse\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\NebulaVerse\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\NebulaVerse\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\NebulaVerse\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\NebulaVerse\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\NebulaVerse\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
